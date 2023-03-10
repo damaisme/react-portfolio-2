@@ -15,6 +15,9 @@ function App() {
       document.title = 'Damasukma Trihanandi';
       AOS.init();
     }, []);
+    <p>
+      Deploy to Azure Web App
+    </p>
   return (
     <div className="px-6 lg:px-20 xl:px-36 bg-dark-500">
       <Navbar />
